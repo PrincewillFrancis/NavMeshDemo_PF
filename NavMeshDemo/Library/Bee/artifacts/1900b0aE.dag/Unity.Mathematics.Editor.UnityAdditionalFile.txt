@@ -1,1 +1,1 @@
-C:\Users\Prince\Documents\GitHub\NavMeshDemo_PF\NavMeshDemo
+C:\NavMeshDemo_PF\NavMeshDemo
